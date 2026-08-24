@@ -4,7 +4,7 @@ public class JavaSrcCode {
 	public static void main(String[] args) {
 		System.out.println("Java Code");
 		
-		String s = "Nits";
+		String s = "Niti";
 		System.out.println(s.indexOf(1));
 	}
 
